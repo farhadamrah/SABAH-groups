@@ -1,0 +1,14 @@
+.logoContainer {
+  width: 90%;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 5px;
+}
+.logo {
+  height: 25%;
+  width: 45%;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
